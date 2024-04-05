@@ -4,9 +4,9 @@ import { Component } from '@angular/core';
   selector: 'app-add-choise',
   standalone: true,
   imports: [],
-  templateUrl: './add-choise.component.html',
-  styleUrl: './add-choise.component.scss'
+  templateUrl: './choise.component.html',
+  styleUrl: './choise.component.scss'
 })
-export class AddChoiseComponent {
+export class ChoiseComponent {
 
 }
