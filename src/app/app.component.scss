@@ -12,21 +12,4 @@ html {
     width: 60%;
     margin: auto;
   }
-
-  body {
-    > nav {
-      height: 80px;
-      background-color: #303030;
-      position: sticky;
-      top: 0;
-      left: 0;
-      right: 0;
-      padding: 10px;
-
-      .container {
-        display: flex;
-        justify-content: space-between;
-      }
-    }
-  }
 }
