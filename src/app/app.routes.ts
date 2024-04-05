@@ -8,7 +8,7 @@ import { AddCardComponent } from './cards/add-card/add-card.component';
 
 export const routes: Routes = [
     { path: "", component: HomeComponent },
-    { path: "add", component: ChoiseComponent },
+    { path: "add-something", component: ChoiseComponent },
     { path: "add-card", component: AddCardComponent },
     { path: "cards", component: CardsComponent },
     { path: "login", component: LoginComponent },
