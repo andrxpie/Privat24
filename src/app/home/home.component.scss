@@ -1,5 +1,13 @@
-h1 {
-  color: white !important;
-  text-align: center;
-  font-size: 50px;
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 80vh;
+
+  h1 {
+    color: white !important;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+  }
 }
