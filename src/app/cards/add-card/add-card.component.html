@@ -1,1 +1,52 @@
-<p>add-card works!</p>
+<h1>
+  <button
+    (click)="back()"
+    mat-icon-button
+    aria-label="Example icon button with a menu icon"
+  >
+    <mat-icon>arrow_back</mat-icon>
+  </button>
+  <span>New card</span>
+</h1>
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <div class="form-field">
+    <mat-form-field>
+      <mat-label>Name</mat-label>
+      <input
+        type="text"
+        formControlName="name"
+        required
+        matInput
+        placeholder="Enter name of card"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Number</mat-label>
+      <input
+        type="number"
+        formControlName="number"
+        required
+        matInput
+        placeholder="Enter card number"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Expire Date</mat-label>
+      <input
+        formControlName="expireDate"
+        required
+        matInput
+        [matDatepicker]="picker"
+      />
+      <mat-datepicker-toggle
+        matIconSuffix
+        [for]="picker"
+      ></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+  </div>
+  <div class="buttons-block">
+    <button type="submit" mat-raised-button color="accent">Add</button>
+    <button (onclick)="back()" type="button" mat-raised-button>Cancle</button>
+  </div>
+</form>

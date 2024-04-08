@@ -1,3 +1,10 @@
+h1 button,
+h1 span {
+  vertical-align: middle;
+  color: white;
+  font-weight: bold;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -9,6 +16,7 @@
     height: 34vh;
     padding-top: 40px;
     padding-left: 40px;
+    padding-right: 40px;
     font-weight: bold;
     font-size: 2em;
     border-radius: 15px;
