@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\dtos\\createtransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\dtos\\createtransactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\dtos\\createcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\dtos\\createcardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|c:\\users\\andrxpie\\source\\repos\\privat24\\core\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479EBDA-466A-45B8-8A4F-59C60D71E1F2}|Core\\Core.csproj|solutionrelative:core\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Core\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:41:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\Card.cs",
+              "RelativeToolTip": "Core\\Entities\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:37:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:25:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\ServiceExtensions.cs",
+              "RelativeToolTip": "Core\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:23:00.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CreateTransactionModel.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CreateTransactionModel.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CreateTransactionModel.cs",
+              "RelativeToolTip": "Core\\DTOs\\CreateTransactionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:16:22.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCardModel.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CreateCardModel.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CreateCardModel.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CreateCardModel.cs",
+              "RelativeToolTip": "Core\\DTOs\\CreateCardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:13:40.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "Core\\DTOs\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:11:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\TransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:49:29.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardDto.cs",
+              "DocumentMoniker": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CardDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\CardDto.cs",
+              "ToolTip": "C:\\Users\\andrxpie\\source\\repos\\Privat24\\Core\\DTOs\\CardDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\CardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:46:29.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,7 +16,7 @@ export class AccountsService {
   private basePath: string;
 
   constructor(private http: HttpClient, private tokenService: TokensService) {
-    this.basePath = 'https://localhost:7206/api/'; //process.env["LOCAL_API"] ?? "";
+    this.basePath = 'https://localhost:7206/api/';
     this.basePath += 'accounts/';
   }
 

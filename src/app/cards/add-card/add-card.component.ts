@@ -22,6 +22,8 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
 import { MatButtonModule } from '@angular/material/button';
+import { MatDatepickerModule } from '@angular/material/datepicker';
+import { CardsService } from '../../services/cards.service';
 
 @Component({
   selector: 'app-add-card',
@@ -36,10 +38,11 @@ import { MatButtonModule } from '@angular/material/button';
     MatSelectModule,
     MatIconModule,
     MatButtonModule,
+    MatDatepickerModule,
     RouterLink,
   ],
   templateUrl: './add-card.component.html',
-  styleUrl: './add-card.component.scss'
+  styleUrl: './add-card.component.scss',
 })
 export class AddCardComponent {
   form: FormGroup;
@@ -66,12 +69,7 @@ export class AddCardComponent {
 
     const model: CardModel = this.form.value as CardModel;
 
-    this.service.login(model).subscribe((res) => {
-      console.log(res);
-
-      this.tokenService.saveTokens(res.accessToken, res.refreshToken);
-      this.router.navigate(['/']);
-    });
+    this.router.navigate(['/']);
   }
 
   back() {

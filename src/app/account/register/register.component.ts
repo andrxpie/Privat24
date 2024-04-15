@@ -64,8 +64,7 @@ export class RegisterComponent {
 
     this.service.register(model).subscribe(res => {
       console.log(res);
-
-      // TODO: navigate to home page
+      
     });
   }
 
